@@ -9,7 +9,6 @@
   ],
   "type": "library",
   "license": "MIT",
-  
   "authors": [
     {
       "name": "Stepan Gavrilenko",
@@ -23,6 +22,5 @@
     "psr-4": {
       "Ispolin08\\Monolog\\": "src/Ispolin08/Monolog"
     }
-  },
-  
+  }
 }
