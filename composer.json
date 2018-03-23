@@ -1,0 +1,28 @@
+{
+  "name": "ispolin08/telegram-handler",
+  "description": "Monolog handler to send log to Telegram",
+  "keywords": [
+    "telegram",
+    "monolog",
+    "logging",
+    "log"
+  ],
+  "type": "library",
+  "license": "MIT",
+  
+  "authors": [
+    {
+      "name": "Stepan Gavrilenko",
+      "email": "ispolin08@gmail.com"
+    }
+  ],
+  "require": {
+    "monolog/monolog": "^1.20"
+  },
+  "autoload": {
+    "psr-4": {
+      "Ispolin08\\Monolog\\": "src/Ispolin08/Monolog"
+    }
+  },
+  
+}
